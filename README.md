@@ -1,1 +1,2 @@
 # WSL-Unity-Socket-Communication
+Unity3d应用和WSL2中的python代码使用socket互相传输数据
